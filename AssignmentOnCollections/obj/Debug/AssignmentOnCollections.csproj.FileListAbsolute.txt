@@ -1,0 +1,7 @@
+E:\Assignment_c#\AssignmentOnCollections\bin\Debug\AssignmentOnCollections.exe.config
+E:\Assignment_c#\AssignmentOnCollections\bin\Debug\AssignmentOnCollections.exe
+E:\Assignment_c#\AssignmentOnCollections\bin\Debug\AssignmentOnCollections.pdb
+E:\Assignment_c#\AssignmentOnCollections\obj\Debug\AssignmentOnCollections.csprojAssemblyReference.cache
+E:\Assignment_c#\AssignmentOnCollections\obj\Debug\AssignmentOnCollections.csproj.CoreCompileInputs.cache
+E:\Assignment_c#\AssignmentOnCollections\obj\Debug\AssignmentOnCollections.exe
+E:\Assignment_c#\AssignmentOnCollections\obj\Debug\AssignmentOnCollections.pdb
